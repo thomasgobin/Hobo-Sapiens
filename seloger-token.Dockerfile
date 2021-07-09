@@ -1,5 +1,5 @@
 FROM openjdk:15-alpine
-EXPOSE 8001
+EXPOSE 80
 
 WORKDIR /usr/src/app
 
